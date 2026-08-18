@@ -25,6 +25,5 @@ var largestInteger = function(nums, k) {
             ans = Math.max(ans, num);
         }
     }
-
     return ans;
 };
