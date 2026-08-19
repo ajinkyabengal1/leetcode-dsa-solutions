@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/ajinkyabengal1/leetcode-dsa-solutions/tree/master/1288-remove-covered-intervals) |
+| [1386-cinema-seat-allocation](https://github.com/ajinkyabengal1/leetcode-dsa-solutions/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ajinkyabengal1/leetcode-dsa-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Sorting
 |  |
@@ -13,5 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/ajinkyabengal1/leetcode-dsa-solutions/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ajinkyabengal1/leetcode-dsa-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+## Greedy
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/ajinkyabengal1/leetcode-dsa-solutions/tree/master/1386-cinema-seat-allocation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/ajinkyabengal1/leetcode-dsa-solutions/tree/master/1386-cinema-seat-allocation) |
 <!---LeetCode Topics End-->
