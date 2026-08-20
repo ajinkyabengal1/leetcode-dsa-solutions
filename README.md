@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/ajinkyabengal1/leetcode-dsa-solutions/tree/master/1288-remove-covered-intervals) |
 | [1386-cinema-seat-allocation](https://github.com/ajinkyabengal1/leetcode-dsa-solutions/tree/master/1386-cinema-seat-allocation) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ajinkyabengal1/leetcode-dsa-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ajinkyabengal1/leetcode-dsa-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Sorting
 |  |
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/ajinkyabengal1/leetcode-dsa-solutions/tree/master/1386-cinema-seat-allocation) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ajinkyabengal1/leetcode-dsa-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
